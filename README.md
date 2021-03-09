@@ -43,4 +43,7 @@ Finding:
 
 ## Acknowledgements <a name="acknowledgements"></a>
 Must acknowledge Stack Overflow and Kaggle for the data, whose licensing can be found [here](https://www.kaggle.com/stackoverflow/so-survey-2017). 
-Guidance on implementing the notebook and README were taken from learnings in the Udacoty course. The sole author of the code was Tom Barrett.
+Guidance on implementing the notebook and README were taken from learnings in the Udacity course. The sole author of the code was Tom Barrett.
+
+## Blog
+My Blog link is [Blog](https://dheerajpant.github.io/blog)
